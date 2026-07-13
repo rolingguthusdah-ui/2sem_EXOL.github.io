@@ -13,7 +13,7 @@ body {
 }
 
 
-.kepala{ color:hsla(69,100%,46%,1.00);font-size: 35px}
+.kepala{ color:hsla(69,100%,46%,1.00);font-size: 40px; padding-left: 20px}
 
 #navbar {
     display: flex;
