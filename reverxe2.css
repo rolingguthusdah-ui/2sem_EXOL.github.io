@@ -109,10 +109,9 @@ body {
 .card p {
     font-size: 1rem;
     line-height: 1.5;
-    color: #111;
+    color:hsla(71,89%,44%,1.00);
     flex-grow: 1;
-    margin-bottom: 1.5rem;text-shadow: 2px 1px 2px  black
-}
+    margin-bottom: 1.5rem;text-shadow: 2px 2px 1px  black}
 
 .see-more {
     align-self: flex-end;
