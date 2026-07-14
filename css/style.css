@@ -314,7 +314,19 @@ body {
     transition: background-image 0.5s ease-in-out; 
 }
 #spotifyalbum
-	{color:hsla(71,72%,48%,1.00); font-size:20px; padding: 5px 50px 50px 50px; margin:50px 50px 50px 50px;}
+	{color:hsla(71,72%,48%,1.00); font-size:20px; padding: 250px 50px 50px 50px; margin:50px 50px 50px 50px;}
 
-	.spotifyalbum {color:hsla(71,72%,48%,1.00);}
+#spotifyalbum{text-decoration: none;
+    font-size: 0.80rem;
+    font-weight: bold;
+    font-style: italic;
+    color:#fff;
+    background-color:#C5E91F;
+    padding: 6px 18px;
+    border-radius: 20px;
+    transition: all 0.2s ease-in-out;padding-top: -100px; margin-top: 350px;margin-right:1500px}
+
+
+	.spotifyalbum {color:hsla(109,53%,6%,1.00);}
+	
 	
